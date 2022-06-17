@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\Fibonacci_LFSR\Fibonacci_LFSR\bin\Debug\Fibonacci_LFSR.exe.config
+C:\Users\User\source\repos\Fibonacci_LFSR\Fibonacci_LFSR\bin\Debug\Fibonacci_LFSR.exe
+C:\Users\User\source\repos\Fibonacci_LFSR\Fibonacci_LFSR\bin\Debug\Fibonacci_LFSR.pdb
+C:\Users\User\source\repos\Fibonacci_LFSR\Fibonacci_LFSR\obj\Debug\Fibonacci_LFSR.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Fibonacci_LFSR\Fibonacci_LFSR\obj\Debug\Fibonacci_LFSR.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Fibonacci_LFSR\Fibonacci_LFSR\obj\Debug\Fibonacci_LFSR.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Fibonacci_LFSR\Fibonacci_LFSR\obj\Debug\Fibonacci_LFSR.exe
+C:\Users\User\source\repos\Fibonacci_LFSR\Fibonacci_LFSR\obj\Debug\Fibonacci_LFSR.pdb
